@@ -1,0 +1,11 @@
+C:\Users\ander\Google Drev\Projekter\HelloMicroservices\HelloMicroservices\bin\Debug\netcoreapp2.0\HelloMicroservices.deps.json
+C:\Users\ander\Google Drev\Projekter\HelloMicroservices\HelloMicroservices\bin\Debug\netcoreapp2.0\HelloMicroservices.runtimeconfig.json
+C:\Users\ander\Google Drev\Projekter\HelloMicroservices\HelloMicroservices\bin\Debug\netcoreapp2.0\HelloMicroservices.runtimeconfig.dev.json
+C:\Users\ander\Google Drev\Projekter\HelloMicroservices\HelloMicroservices\bin\Debug\netcoreapp2.0\HelloMicroservices.dll
+C:\Users\ander\Google Drev\Projekter\HelloMicroservices\HelloMicroservices\obj\Debug\netcoreapp2.0\HelloMicroservices.csprojResolveAssemblyReference.cache
+C:\Users\ander\Google Drev\Projekter\HelloMicroservices\HelloMicroservices\obj\Debug\netcoreapp2.0\HelloMicroservices.csproj.CoreCompileInputs.cache
+C:\Users\ander\Google Drev\Projekter\HelloMicroservices\HelloMicroservices\obj\Debug\netcoreapp2.0\HelloMicroservices.AssemblyInfoInputs.cache
+C:\Users\ander\Google Drev\Projekter\HelloMicroservices\HelloMicroservices\obj\Debug\netcoreapp2.0\HelloMicroservices.AssemblyInfo.cs
+C:\Users\ander\Google Drev\Projekter\HelloMicroservices\HelloMicroservices\bin\Debug\netcoreapp2.0\HelloMicroservices.pdb
+C:\Users\ander\Google Drev\Projekter\HelloMicroservices\HelloMicroservices\obj\Debug\netcoreapp2.0\HelloMicroservices.dll
+C:\Users\ander\Google Drev\Projekter\HelloMicroservices\HelloMicroservices\obj\Debug\netcoreapp2.0\HelloMicroservices.pdb

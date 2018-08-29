@@ -1,0 +1,11 @@
+C:\Users\Yeezy\Google Drev\Projekter\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp2.0\ShoppingCart.deps.json
+C:\Users\Yeezy\Google Drev\Projekter\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp2.0\ShoppingCart.runtimeconfig.json
+C:\Users\Yeezy\Google Drev\Projekter\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp2.0\ShoppingCart.runtimeconfig.dev.json
+C:\Users\Yeezy\Google Drev\Projekter\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp2.0\ShoppingCart.dll
+C:\Users\Yeezy\Google Drev\Projekter\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.0\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\Yeezy\Google Drev\Projekter\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\Yeezy\Google Drev\Projekter\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\Yeezy\Google Drev\Projekter\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\Yeezy\Google Drev\Projekter\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp2.0\ShoppingCart.pdb
+C:\Users\Yeezy\Google Drev\Projekter\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.0\ShoppingCart.dll
+C:\Users\Yeezy\Google Drev\Projekter\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.0\ShoppingCart.pdb
